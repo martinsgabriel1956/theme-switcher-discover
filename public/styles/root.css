@@ -1,0 +1,19 @@
+:root {
+	--dark: #292C35;
+	--light: #F1F1F1;
+	--label: #111;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.light {
+  background: var(--light);
+}
+
+.dark {
+  background: var(--dark);
+}
